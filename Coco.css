@@ -1,0 +1,30 @@
+.hero-section {
+    background-image: url('https://img.freepik.com/premium-photo/cafe-with-large-window-table-with-chairs_728472-653.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    color: rgba(255, 255, 255, 0.789);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hero-section h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.5rem;
+}
+.heading {
+    padding: 50;
+    position: absolute;
+
+}
+.Text{
+    padding: 50;
+    position: relative;
+
+}
